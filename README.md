@@ -6,10 +6,14 @@ The ZIP files in [Releases](https://github.com/kruqond/renderoverse-3d-assets/re
 
 | Package | Compatibility | Original release |
 | --- | --- | --- |
-| Delia (Ash's mom) - Pokemon | DAZ Studio 4.24+ and a complete Genesis 9 Starter Essentials installation | [Delia on Renderoverse](https://renderoverse.com/model/delia-ash-s-mom-pokemon) |
-| Yanagi | Blender 5.2.1 LTS+; supplied FBX has different portability limits from the native Blender file | [Yanagi on Renderoverse](https://renderoverse.com/model/yanagi-h-verse-gamecg-blender) |
+| [Delia — DAZ Studio / Genesis 9](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/delia-v1.0.0) | DAZ Studio 4.24+ and a complete Genesis 9 Starter Essentials installation | [Delia on Renderoverse](https://renderoverse.com/model/delia-ash-s-mom-pokemon) |
+| [Yanagi — Blender / FBX](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/yanagi-v1.3.0) | Blender 5.2.1 LTS+; supplied FBX has different portability limits from the native Blender file | [Yanagi on Renderoverse](https://renderoverse.com/model/yanagi-h-verse-gamecg-blender) |
+| [Delia — Blender / FBX](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/delia-blender-v1.3.0) | Blender 5.2.1+; read the bundled README for export and compatibility limits | [Delia on Renderoverse](https://renderoverse.com/model/delia-ash-s-mom-pokemon-blender) |
+| [Hana Uzaki — Blender / FBX](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/hana-uzaki-blender-v1.3.0) | Blender 5.2.1+; read the bundled README for export and compatibility limits | [Hana Uzaki on Renderoverse](https://renderoverse.com/model/hana-uzaki-uzaki-chan-wants-to-hang-out-blender) |
+| [Hana Uzaki — DAZ Studio / Genesis 9](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/hana-uzaki-daz-v1.0.0) | DAZ Studio 4.24+ and a complete Genesis 9 Starter Essentials installation | [Hana Uzaki on Renderoverse](https://renderoverse.com/model/hana-uzaki-uzaki-chan-wants-to-hang-out) |
+| [Yanagi — DAZ Studio / Genesis 9](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/yanagi-daz-v1.0.0) | DAZ Studio 4.24+ and a complete Genesis 9 Starter Essentials installation | [Yanagi on Renderoverse](https://renderoverse.com/model/yanagi-h-verse-gamecg) |
 
-Read the README inside each package before installing or exporting. Delia is a native DAZ package, not a reproduction of the Blender studio preview. Yanagi's weighted clothing and hair are not collision simulated; extreme poses and different target applications may require fitting or adjustments.
+Read the README inside each package before installing or exporting. The Delia DAZ package is a native DAZ package, not a reproduction of the Blender studio preview. The Yanagi Blender package's weighted clothing and hair are not collision simulated; extreme poses and different target applications may require fitting or adjustments.
 
 ## Licensing
 
