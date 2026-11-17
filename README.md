@@ -20,3 +20,9 @@ Read the README inside each package before installing or exporting. The Delia DA
 Original third-party asset licenses and bundled notices still apply. This repository does not relicense the packages as MIT, CC0 or CC-BY, or grant additional rights to their constituent assets. Character names and other third-party intellectual property remain with their respective owners. See [license notices](LICENSE-NOTICES.md) and each source listing.
 
 Package-specific validation and limitations are documented in the original READMEs and manifests. No new rendering or compatibility evaluation is claimed for these mirrors.
+
+## Preview
+
+Delia — original source preview. See the package notes above for the DAZ and Blender differences.
+
+<a href="https://renderoverse.com/model/delia-ash-s-mom-pokemon"><img src="https://github.com/user-attachments/assets/a0a7c870-0764-43a0-9bfe-659c9e9399f2" alt="Delia — original Renderoverse character preview" width="360"></a>
