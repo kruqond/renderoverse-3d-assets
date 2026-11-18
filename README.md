@@ -1,6 +1,6 @@
 # Renderoverse 3D assets
 
-Download mirrors of free DAZ Studio and Blender packages by **NSFWstudio**, originally published on [Renderoverse](https://renderoverse.com/).
+Download mirrors of free DAZ Studio and Blender packages by [**NSFWstudio**](https://www.patreon.com/nsfwstudio), originally published on [Renderoverse](https://renderoverse.com/).
 
 The ZIP files in [Releases](https://github.com/kruqond/renderoverse-3d-assets/releases) are unchanged copies of the source packages. Each release includes its SHA-256 checksum. Use the original listings for previews and release information.
 
