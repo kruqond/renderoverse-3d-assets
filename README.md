@@ -2,7 +2,7 @@
 
 Download mirrors of free DAZ Studio and Blender packages by [**NSFWstudio**](https://www.patreon.com/nsfwstudio), originally published on [Renderoverse](https://renderoverse.com/).
 
-The ZIP files in [Releases](https://github.com/kruqond/renderoverse-3d-assets/releases) are unchanged copies of the source packages. Each release includes its SHA-256 checksum. Use the original listings for previews and release information.
+The six model ZIPs listed below in [Releases](https://github.com/kruqond/renderoverse-3d-assets/releases) are unchanged copies of the source packages. Each release includes its SHA-256 checksum. Use the original listings for previews and release information.
 
 | Package | Compatibility | Original release |
 | --- | --- | --- |
@@ -24,6 +24,8 @@ The six GitHub ZIPs above are for DAZ Studio or Blender, not MikuMikuDance. If y
 - [Yanagi - the H verse GameCG [MMD]](https://renderoverse.com/model/yanagi-the-h-verse-gamecg-mmd)
 
 **Not sure which VMD you downloaded?** Open the [MMD Motion Checker](https://huggingface.co/spaces/zuraxe/mmd-motion-checker), leave the PMX field empty, and choose **Inspect VMD only**. Camera keyframes move the camera; bone and morph tracks animate the model. For a name match, add the PMX and choose **Compare track names**. Files stay in your browser. The checker reads tracks; it doesn’t play the motion.
+
+**Need an offline copy?** [Download the MMD Motion Checker ZIP](https://github.com/kruqond/renderoverse-3d-assets/releases/download/mmd-motion-checker-offline-v1.0.0/Renderoverse-MMD-Motion-Checker-Offline-v1.0.0.zip), unzip it, and open `index.html` in your browser. No account or internet connection is needed after download. The [release](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/mmd-motion-checker-offline-v1.0.0) includes a checksum. The ZIP contains the checker and instructions, not character models or motion files.
 
 ## Licensing
 
