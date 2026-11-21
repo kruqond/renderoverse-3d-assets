@@ -34,6 +34,10 @@ The model pages include the original full-body previews.
 
 **Need an offline copy?** [Download the MMD Motion Checker ZIP](https://github.com/kruqond/renderoverse-3d-assets/releases/download/mmd-motion-checker-offline-v1.0.0/Renderoverse-MMD-Motion-Checker-Offline-v1.0.0.zip), unzip it, and open `index.html` in your browser. No account or internet connection is needed after download. The [release](https://github.com/kruqond/renderoverse-3d-assets/releases/tag/mmd-motion-checker-offline-v1.0.0) includes a checksum. The ZIP contains the checker and instructions, not character models or motion files.
 
+## Camera Blocking Stage
+
+[Download the Blender scene or GLB](camera-blocking-stage/) to check a pan, orbit, or push-in without loading a character. Its half-metre floor grid and four reference targets help show what moved.
+
 ## Licensing
 
 Original third-party asset licenses and bundled notices still apply. This repository does not relicense the packages as MIT, CC0 or CC-BY, or grant additional rights to their constituent assets. Character names and other third-party intellectual property remain with their respective owners. See [license notices](LICENSE-NOTICES.md) and each source listing.
