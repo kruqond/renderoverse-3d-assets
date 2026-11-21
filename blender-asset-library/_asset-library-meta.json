@@ -1,0 +1,13 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:a57255f7f963ae2d20281b3198e8f631e69187074d4ef4465c725fb1b19fea93"
+    }
+  },
+  "name": "Renderoverse Studio Assets",
+  "contact": {
+    "name": "Renderoverse",
+    "url": "https://renderoverse.com/models/3d"
+  }
+}

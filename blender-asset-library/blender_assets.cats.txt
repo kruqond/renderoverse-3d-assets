@@ -1,0 +1,3 @@
+VERSION 1
+
+788847c0-4cdf-5ac5-bd30-fdad78970f5a:Animation/Camera:Animation-Camera

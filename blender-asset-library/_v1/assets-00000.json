@@ -1,0 +1,46 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Camera Blocking Stage",
+      "id_type": "COLLECTION",
+      "files": [
+        "camera-blocking-stage.asset.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "camera-blocking-stage.asset_thumbnails/Collection/camera-blocking-stage.webp",
+        "hash": "SHA256:f7514b4b1c35842cd7fcdb83779d8028a280e2e7626a783e12f29502285a57b4"
+      },
+      "meta": {
+        "catalog_id": "788847c0-4cdf-5ac5-bd30-fdad78970f5a",
+        "tags": [
+          "Camera",
+          "Animation",
+          "Blocking",
+          "Reference"
+        ],
+        "author": "Renderoverse",
+        "description": "Static 6 \u00d7 4 m reference stage for checking pans, orbits, and framing.",
+        "properties": [
+          {
+            "name": "Website",
+            "type": "IDP_STRING",
+            "value": "https://renderoverse.com/models/3d"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "camera-blocking-stage.asset.blend",
+      "size_in_bytes": 147287,
+      "hash": "SHA256:90f7f03d6803fd75b65607f127a45f780e3f5baa35b447e178e9b6ee2032c1c7",
+      "blender_version": "5.2.44"
+    }
+  ]
+}

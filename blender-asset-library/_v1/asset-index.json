@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 147287,
+  "asset_count": 1,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:988db585a830e2caad2d961039f41dcdde2f2a0c7977336a8b7217e8a20a31e0"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Animation/Camera",
+      "uuids": [
+        "788847c0-4cdf-5ac5-bd30-fdad78970f5a"
+      ],
+      "simple_name": "Animation-Camera"
+    }
+  ]
+}
