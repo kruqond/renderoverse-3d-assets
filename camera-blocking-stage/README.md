@@ -2,6 +2,8 @@
 
 Use this small scene to check a camera pan, orbit, push-in, or framing change without loading a character.
 
+The [Renderoverse release](https://renderoverse.com/model/camera-blocking-stage) has the Blender project, GLB, and Asset Browser collection in one ZIP.
+
 - [**Download GLB**](https://raw.githubusercontent.com/kruqond/renderoverse-3d-assets/main/camera-blocking-stage/camera-blocking-stage.glb): Import the scene in a glTF-compatible editor. It has no external textures, cameras, lights, or animation.
 - [**Download the Blender project**](https://raw.githubusercontent.com/kruqond/renderoverse-3d-assets/main/camera-blocking-stage/camera-blocking-stage.blend): The stage meshes are in the exported-geometry collection. The separate studio camera and lights are for preview rendering.
 
